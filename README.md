@@ -7,8 +7,9 @@ Software Engineer | Open to New Opportunities
 Hi there! 👋 I'm Georgio Asmar, a passionate Software Engineer who loves to learn, build innovative projects, and contribute to open source. With a strong foundation in programming and a knack for problem-solving, I'm always eager to take on new challenges.
 
 ### 🔧 Technologies & Skills
+- Java
 - JavaScript
-- React.js
+- Python
 - Node.js
 - C/C#/C++
 - HTML/CSS
