@@ -33,7 +33,4 @@ I'm passionate about technology and always excited to explore new areas. Current
 ### 💬 Let's Connect
 I'm open to new opportunities and collaboration. Feel free to reach out to me at asmargeorgio@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/georgioasmar).
 
-### 📜 Quote of the Day
-"Continuous learning is the key to growth in any field." - Georgio Asmar
-
-Thanks for visiting my GitHub profile! 😊
+Thanks for visiting my GitHub profile!
